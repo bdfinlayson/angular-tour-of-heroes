@@ -1,0 +1,10 @@
+.hero:hover {
+  background-color: lightgrey;
+  font-size: larger;
+  cursor: pointer;
+}
+
+.selected {
+  font-style: italic;
+  color: red;
+}
